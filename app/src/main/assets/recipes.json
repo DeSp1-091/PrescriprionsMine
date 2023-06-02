@@ -1,0 +1,68 @@
+{
+  "recipes": [
+    {
+      "title": "Верстак",
+      "image": "https://sun6-20.userapi.com/s/v1/ig2/yHpjzQg9vxMXcNbjvQNnveaYAxo8EfMzvqGIWi-4NQLYR9LSHCwnmH2KpTdXaiBfbmICkFba1pDvAbvSqsorgqDB.jpg?size=400x0&quality=96&crop=0,0,1366,1366&ava=1",
+      "url": "https://minecraft.fandom.com/ru/wiki/Верстак",
+      "description": "Самый простой крафт, с которым вы столкнётесь на старте игры",
+      "servings": 24,
+      "dietLabel": "Low"
+    },
+    {
+      "title": "Топор",
+      "image": "https://gpng.net/wp-content/uploads/Diamond-Axe-Minecraft-png.png",
+      "url": "https://minecraft.fandom.com/ru/wiki/Топор",
+      "description": "После создания верстока, вам открывается возможность ускорить рубку деревьев",
+      "servings": 24,
+      "dietLabel": "Low-Hard"
+    },
+    {
+      "title": "Кирка",
+      "image": "https://w7.pngwing.com/pngs/632/893/png-transparent-minecraft-pocket-edition-pickaxe-video-game-roblox-minecraft-angle-rectangle-diamond.png",
+      "url": "https://minecraft.fandom.com/ru/wiki/Кирка",
+      "description": "После создания верстока, вам откроется возможность добывать камень и руду",
+      "servings": 24,
+      "dietLabel": "Low-Hard"
+    },
+    {
+      "title": "Лук",
+      "image": "https://i.pinimg.com/originals/0d/55/fd/0d55fde5ef45ec1d529fdae3a35fc310.png",
+      "url": "https://minecraft.fandom.com/ru/wiki/Лук",
+      "description": "Куда же нам без лука, против лучников и эндер дракона",
+      "servings": 4,
+      "dietLabel": "Medium"
+    },
+    {
+      "title": "Печь",
+      "image": "https://i.ytimg.com/vi/kBrpwz-RuWw/hqdefault.jpg",
+      "url": "https://minecraft.fandom.com/ru/wiki/Печь",
+      "description": "Добыв немного руды или еды, нам понадобится печка",
+      "servings": 24,
+      "dietLabel": "Low"
+    },
+    {
+      "title": "Стол зачаровывания",
+      "image": "https://sun6-22.userapi.com/s/v1/ig1/bAvDN4WjMHNffXw-e5gNCmDeIJP3yciB19EWOTCpLWHAGnihEDPJ6dYPsoyNXZb3hW05R-Hn.jpg?size=900x900&quality=96&crop=0,0,900,900&ava=1",
+      "url": "https://minecraft.fandom.com/ru/wiki/Стол_зачаровывания",
+      "description": "Перед битвой с драконом или же просто для повышения жевучести стоит зачаровать своё снаряжение ",
+      "servings": 24,
+      "dietLabel": "Hard"
+    },
+    {
+      "title": "Наковальня",
+      "image": "https://www.geroncraft.ru/wp-content/uploads/2020/05/anvil-event-API-1.jpg",
+      "url": "https://minecraft.fandom.com/ru/wiki/Наковальня",
+      "description": "Если повредится снаряжение, то его можно будет починить на наковалне",
+      "servings": 24,
+      "dietLabel": "Medium"
+    },
+    {
+      "title": "Варочная стойка",
+      "image": "https://catchsuccess.ru/wp-content/uploads/2/8/b/28bc6152a8bf2d4ce93145db739b1d12.jpeg",
+      "url": "https://minecraft.fandom.com/ru/wiki/Варочная_стойка",
+      "description": "Куда же без зелей?)",
+      "servings": 24,
+      "dietLabel": "Hard"
+    }
+  ]
+}
